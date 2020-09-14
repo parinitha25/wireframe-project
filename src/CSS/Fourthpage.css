@@ -1,0 +1,27 @@
+.text-area{
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: 99mm;
+    height: 49mm;
+    background-color: white;
+    margin-top: 5%;
+}
+.close-icon{
+    width: 3mm;
+    height: 3mm;
+    color:rgb(179, 000,000);
+    margin-top: 9%;
+    margin-left: -3%;
+}
+.about{
+    color: white;
+    font-size: 14pt;
+    margin-top: 20px;
+}
+.minimize{
+    color: white;
+    width: 3mm;
+    height: 3mm;
+    float:right;
+    margin-top: 40%;
+}
